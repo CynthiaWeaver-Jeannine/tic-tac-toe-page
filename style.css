@@ -1,0 +1,28 @@
+
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    background-color: papayawhip;
+    margin: 0;
+}
+
+h1{
+    font-size: 2em;
+    margin: 0.67em 0;
+    text-align: center;
+    color: midnightblue;
+    font-family: cursive;
+
+}
+nav{
+    background-color: rgb(182, 182, 207);
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-family: cursive;
+    text-decoration: none;
+}
